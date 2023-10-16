@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "index.js",
+      "use": "@now/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "index.js"
+    },
+    {
+      "src": "/live-vehicles/(.*)",
+      "dest": "index.js"
+    },
+    {
+      "src": "/performance/(.*)",
+      "dest": "index.js"
+    },
+    {
+      "src": "/kpi-data(.*)",
+      "dest": "index.js"
+    }
+  ]
+}
