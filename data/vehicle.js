@@ -10,18 +10,18 @@ module.exports = [
         rot: 45
     },
     {
-        model: "EV-24789xwr",
-        user: "Adwait Bokade",
-        warrenty: "1Y Pending",
+        model: "EV-24787xfr",
+        user: "Peter Holland",
+        warrenty: "2Y Pending",
         distanceTravelled: "500KM",
         currentLoc: [51.525, -0.10],
         rot: 20
 
     },
     {
-        model: "EV-24789xwr",
-        user: "Adwait Bokade",
-        warrenty: "1Y Pending",
+        model: "EV-24799xwr",
+        user: "David Johnson",
+        warrenty: "5Y Pending",
         distanceTravelled: "500KM",
         currentLoc: [51.504, -0.15],
         rot: 120
@@ -29,7 +29,7 @@ module.exports = [
     },
     {
         model: "EV-24789xwr",
-        user: "Adwait Bokade",
+        user: "Krishna Borade",
         warrenty: "1Y Pending",
         distanceTravelled: "500KM",
         currentLoc: [51.505, -0.20],
@@ -38,7 +38,7 @@ module.exports = [
     },
     {
         model: "EV-24789xwr",
-        user: "Adwait Bokade",
+        user: "Ajay Mane",
         warrenty: "1Y Pending",
         distanceTravelled: "500KM",
         currentLoc: [51.605, -0.01],
@@ -47,7 +47,7 @@ module.exports = [
     },
     {
         model: "EV-24789xwr",
-        user: "Adwait Bokade",
+        user: "Ramdas Jagtap",
         warrenty: "1Y Pending",
         distanceTravelled: "500KM",
         currentLoc: [51.575, -0.18],
@@ -56,7 +56,7 @@ module.exports = [
     },
     {
         model: "EV-24789xwr",
-        user: "Adwait Bokade",
+        user: "Vrushab Bhagwatkar",
         warrenty: "1Y Pending",
         distanceTravelled: "500KM",
         currentLoc: [51.555, -0.08],
@@ -64,7 +64,7 @@ module.exports = [
 
     }, {
         model: "EV-24789xwr",
-        user: "Adwait Bokade",
+        user: "Viren Bhosole",
         warrenty: "1Y Pending",
         distanceTravelled: "500KM",
         currentLoc: [21.145800, 79.088158],
@@ -72,7 +72,7 @@ module.exports = [
 
     }, {
         model: "EV-24789xwr",
-        user: "Adwait Bokade",
+        user: "Nipun Dhandge",
         warrenty: "1Y Pending",
         distanceTravelled: "500KM",
         currentLoc: [21.145800, 79.188158],
@@ -80,7 +80,7 @@ module.exports = [
 
     }, {
         model: "EV-24789xwr",
-        user: "Adwait Bokade",
+        user: "Sarthak Khandare",
         warrenty: "1Y Pending",
         distanceTravelled: "500KM",
         currentLoc: [21.145800, 79.08158],
@@ -88,7 +88,7 @@ module.exports = [
 
     }, {
         model: "EV-24789xwr",
-        user: "Adwait Bokade",
+        user: "Gaurav Tale",
         warrenty: "1Y Pending",
         distanceTravelled: "500KM",
         currentLoc: [21.245800, 79.088158],
